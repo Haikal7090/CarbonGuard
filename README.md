@@ -1,6 +1,9 @@
 # CarbonGuard
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Robot-blue?logo=scikit-learn&logoColor=white)
 ![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-red?logo=target&logoColor=white)
+![Deep Autoencoder](https://img.shields.io/badge/Deep_Autoencoder-Neural_Network-orange?logo=pytorch&logoColor=white)
+
 
 CarbonGuard v5.1: Hybrid Unsupervised ML for Real-Time Subsea CCUS Leak Detection
 Location Focus: Tangguh UCC Project — West Papua, Indonesia.
